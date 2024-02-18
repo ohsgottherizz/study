@@ -43,9 +43,4 @@ public class HelloControllerTest {
                 .andExpect(jsonPath("$.name", is(name)))
                 .andExpect(jsonPath("$.amount", is(amount)));
     }
-
-    @GetMapping("/hello/dto")
-    public HelloResponseDto helloDto(@RequestParam("name") String name, @RequestParam("amount") int amount) {
-        return new HelloResponseDto(name, amount);
-    }
 }

@@ -1,0 +1,172 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="c7f58132-693b-42ba-af22-a466bd39c2d2" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../allinone/BMS/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../allinone/BMS/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../allinone/BMS/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../allinone/BMS/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../allinone/BMS/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../allinone/BMS/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../allinone/BMS/src/main/java/bms/ems/member/DBConnectionInfo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../allinone/BMS/src/main/java/bms/ems/member/Student.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../allinone/BMS/src/main/java/bms/ems/member/dao/StudentDao.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../allinone/BMS/src/main/java/bms/ems/member/service/EMSInformationService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../allinone/BMS/src/main/java/bms/ems/member/service/PringStudentInformantionService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../allinone/BMS/src/main/java/bms/ems/member/service/StudentAllSelectService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../allinone/BMS/src/main/java/bms/ems/member/service/StudentDeleteService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../allinone/BMS/src/main/java/bms/ems/member/service/StudentModifyService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../allinone/BMS/src/main/java/bms/ems/member/service/StudentRegisterService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../allinone/BMS/src/main/java/bms/ems/member/service/StudentSelectService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../allinone/BMS/src/main/java/bms/ems/member/utils/InitSampleData.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../allinone/calculator1/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../allinone/calculator1/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../allinone/calculator1/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../allinone/calculator1/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../allinone/calculator1/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../allinone/calculator1/calculator1.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../allinone/calculator1/src/CalAdd.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../allinone/calculator1/src/CalDiv.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../allinone/calculator1/src/CalMul.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../allinone/calculator1/src/CalSub.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../allinone/calculator1/src/ICalculator.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../allinone/calculator1/src/MainClass.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../allinone/calculator1/src/MyCalculator.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../allinone/calculator2/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../allinone/calculator2/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../allinone/calculator2/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../allinone/calculator2/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../allinone/calculator2/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../allinone/calculator2/calculator2.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../allinone/calculator2/src/CalAdd.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../allinone/calculator2/src/CalDiv.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../allinone/calculator2/src/CalMul.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../allinone/calculator2/src/CalSub.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../allinone/calculator2/src/ICalculator.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../allinone/calculator2/src/MainClass.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../allinone/calculator2/src/MyCalculator.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../allinone/calculator3/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../allinone/calculator3/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../allinone/calculator3/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../allinone/calculator3/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../allinone/calculator3/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../allinone/calculator3/calculator3.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../allinone/calculator3/src/CalAdd.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../allinone/calculator3/src/CalAssembler.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../allinone/calculator3/src/CalDiv.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../allinone/calculator3/src/CalMul.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../allinone/calculator3/src/CalSub.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../allinone/calculator3/src/ICalculator.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../allinone/calculator3/src/MainClass.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../allinone/calculator3/src/MyCalculator.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../allinone/calculator4/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../allinone/calculator4/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../allinone/calculator4/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../allinone/calculator4/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../allinone/calculator4/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../allinone/calculator4/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../allinone/calculator4/src/main/java/ch03pj03/CalAdd.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../allinone/calculator4/src/main/java/ch03pj03/CalAssembler.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../allinone/calculator4/src/main/java/ch03pj03/CalDiv.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../allinone/calculator4/src/main/java/ch03pj03/CalMul.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../allinone/calculator4/src/main/java/ch03pj03/CalSub.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../allinone/calculator4/src/main/java/ch03pj03/ICalculator.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../allinone/calculator4/src/main/java/ch03pj03/MainClass.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../allinone/calculator4/src/main/java/ch03pj03/MyCalculator.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../allinone/calculator4/src/main/resources/applicationContext.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../allinone/ch03pj01/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../allinone/ch03pj01/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../allinone/ch03pj01/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../allinone/ch03pj01/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../allinone/ch03pj01/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../allinone/ch03pj01/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../allinone/ch03pj01/src/main/java/MainClass.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../allinone/ch03pj01/src/main/java/TransportationWalk.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../allinone/ch03pj02/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../allinone/ch03pj02/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../allinone/ch03pj02/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../allinone/ch03pj02/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../allinone/ch03pj02/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../allinone/ch03pj02/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../allinone/ch03pj02/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../allinone/ch03pj02/src/main/java/MainClass.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../allinone/ch03pj02/src/main/java/TransportationWalk.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../allinone/ch03pj02/src/main/resources/applicationContext.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../awsprac/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/../awsprac/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../awsprac/src/main/java/com/jojol/book/springboot/web/HelloController.java" beforeDir="false" afterPath="$PROJECT_DIR$/../awsprac/src/main/java/com/jojol/book/springboot/web/HelloController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../awsprac/src/main/java/com/jojol/book/springboot/web/dto/HelloResponseDto.java" beforeDir="false" afterPath="$PROJECT_DIR$/../awsprac/src/main/java/com/jojol/book/springboot/web/dto/HelloResponseDto.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../awsprac/src/test/java/com/jojol/book/springboot/web/HelloControllerTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../awsprac/src/test/java/com/jojol/book/springboot/web/HelloControllerTest.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+        <option value="Interface" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../.." />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 1
+}]]></component>
+  <component name="ProjectId" id="2cWM035RhtP3lWQlbARMftrQgAG" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master",
+    "kotlin-language-version-configured": "true",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "onboarding.tips.debug.path": "/Users/changmin/Desktop/programming/study/backend/books/ch02_pjt_01/src/Main.java",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src" />
+    </key>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="jdk-11.0.22-corretto-11.0.22-f644763e9732-6ddbcd97" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c7f58132-693b-42ba-af22-a466bd39c2d2" name="Changes" comment="" />
+      <created>1708222655996</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1708222655996</updated>
+      <workItem from="1708222658454" duration="1097000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>

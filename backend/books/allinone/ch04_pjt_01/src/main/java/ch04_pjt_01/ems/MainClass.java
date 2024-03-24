@@ -1,9 +1,15 @@
-package ems;
+package ch04_pjt_01.ems;
+
+import org.springframework.context.support.GenericXmlApplicationContext;
 
 import ch04_pjt_01.ems.member.Student;
-import ch04_pjt_01.ems.member.service.*;
+import ch04_pjt_01.ems.member.service.EMSInformationService;
+import ch04_pjt_01.ems.member.service.PrintStudentInformationService;
+import ch04_pjt_01.ems.member.service.StudentDeleteService;
+import ch04_pjt_01.ems.member.service.StudentModifyService;
+import ch04_pjt_01.ems.member.service.StudentRegisterService;
+import ch04_pjt_01.ems.member.service.StudentSelectService;
 import ch04_pjt_01.ems.utils.InitSampleData;
-import org.springframework.context.support.GenericXmlApplicationContext;
 
 public class MainClass {
 
